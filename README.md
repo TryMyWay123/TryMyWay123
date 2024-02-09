@@ -13,7 +13,7 @@
 - Java
 - C++
 - SQL
-I will Graduate with a bachalor's in information systems! Class of 2023!
+I will Graduate with a bachalor's in information systems! Class of 2024!
 <!---
 TryMyWay123/TryMyWay123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
